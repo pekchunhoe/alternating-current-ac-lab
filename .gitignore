@@ -7,12 +7,10 @@ playwright-report/
 .npm-cache/
 .pip-cache/
 tmp/
-node_modules/
-dist/
+
+
 .env
 .env.*
 !.env.example
 .vercel/
 coverage/
-test-results/
-playwright-report/
