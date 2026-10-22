@@ -1,0 +1,80 @@
+ 
+CURRICULUM SPECIFICATIONS  
+PHYSICS 2 (SP025) 
+ 
+Berkuat kuasa mulai Sesi 2022/2023 
+ 
+ 
+10 
+5.3 Self-inductance 
+a) Define self-inductance. 
+b) Apply self-inductance, 𝐿= −
+%
+H12
+1-I for coil and solenoid, where: 
+i. 𝐿=
+J∅
+C 
+ii. 𝐿8K:L =
+B0J">
+<& 
+iii. 𝐿MKL6NK:O =
+B0J">
+/
+ 
+ 
+5.4 Energy stored in inductor 
+a) Apply the energy stored in an inductor, 𝑈=
+4
+< 𝐿𝐼< 
+ 
+5.5 Mutual inductance 
+a) Define mutual inductance. 
+b) Use mutual inductance, 𝑀=
+B0J#J">
+/
+ between two coaxial solenoids. 
+ 
+ 
+Topic 6: Alternating Current 
+ 
+6.1 Alternating current  
+a) Define alternating current (AC). 
+b) Sketch and interpret sinusoidal AC waveform. 
+c) Use sinusoidal voltage and current equations: 
+i. 𝑉= 𝑉= sin 𝜔𝑡 
+ii. 𝐼= 𝐼= sin 𝜔𝑡 
+ 
+6.2 Root mean square (rms)  
+a) Define root mean square (rms) current and voltage for AC source. 
+b) Use 𝐼&PQ =
+C0
+√<,  𝑉&PQ =
+20
+√< 
+ 
+6.3 Resistance, reactance and impedance 
+a) Sketch and use phasor diagram and sinusoidal waveform to show the phase relationship 
+between current and voltage for a single component circuit of: 
+i. resistor, R 
+ii. capacitor, C 
+iii. inductor, L 
+b) Use phasor diagram to analyse voltage, current, and impedance of series circuit of RL, 
+RC and RLC. 
+c) Define and use: 
+i. capacitive reactance, 𝑋5 =
+4
+<$+5  
+ii. inductive reactance, 𝑋S = 2𝜋𝑓𝐿  
+iii. impedance, 𝑍= ^𝑅< + (𝑋S −𝑋5)<  
+iv. phase angle, ∅= tanT4 (V3TV/)
+?
+  
+d) Explain graphically the dependence of R, XC, XL and Z on f and relate it to resonance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

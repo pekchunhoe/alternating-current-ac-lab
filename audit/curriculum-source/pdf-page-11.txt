@@ -1,0 +1,96 @@
+ 
+CURRICULUM SPECIFICATIONS  
+PHYSICS 2 (SP025) 
+ 
+Berkuat kuasa mulai Sesi 2022/2023 
+ 
+ 
+11 
+6.4 Power and power factor 
+a) Apply in AC circuit consisting of R, RC, RL and RLC in series: 
+i. average power, 𝑃X; = 𝐼&PQ𝑉&PQ cos ∅ 
+*also known as power loss that only occurs in resistor 
+ii. instantaneous power, 𝑃= 𝐼𝑉 
+iii. power factor, cos ∅=
+Y4
+Y5 =
+Y6*
+C4782478 
+ 
+Topic 7: Optics 
+ 
+7.1 Reflection at a spherical surface  
+a) State radius of curvature, 𝑅= 2𝑓 for spherical mirror. 
+b) Sketch ray diagrams with a minimum of two rays to determine the characteristics of 
+image formed by spherical mirrors. 
+c) Use mirror equation, 
+4
++ =
+4
+Z +
+4
+[  for real object only. 
+*sign convention for focal length, f and radius of curvature, R:  
+i. positive f and R for concave mirror; and 
+ii. negative f and R for convex mirror 
+d) Apply magnification, 𝑀=
+\9
+\: = −
+[
+Z  
+ 
+7.2 Refraction at a spherical surface 
+a) Use 
+-#
+Z +
+-"
+[ =
+-"T-#
+?
+ for spherical surface. 
+*sign convention for radius of curvature, R:  
+i. positive R for convex surface; and 
+ii. negative R for concave surface 
+ 
+7.3 Thin lenses 
+a) Use thin lens equation, 
+4
++ =
+4
+Z +
+4
+[ for real object only. 
+*sign convention for focal length, f:  
+i. positive f for convex lens; and 
+ii. negative f for concave lens 
+b) Determine the focal length of a convex lens. 
+(Experiment 5: Geometrical Optics)  
+c) Use lens maker’s equation, 
+4
++ = -
+-;6(%<)6=
+-;%>)?; −1/ -
+4
+?# −
+4
+?"/  
+d) Apply magnification, 𝑀=
+\9
+\: = −
+[
+Z. 
+e) Use the thin lens formula for a combination of two convex lenses 
+ 
+7.4 Huygens’s Principle 
+a) State Huygens’s Principle (e.g. spherical and plane wave fronts). 
+b) Sketch and explain the wave front of light after passing through a single slit and 
+obstacle using Huygens’s Principle. 
+ 
+7.5 Constructive and destructive interferences 
+a) Define coherence. 
+b) State the conditions for interference of light.  
+c) State the conditions of constructive and destructive interference for in phase and 
+antiphase sources.  
+*emphasise on the path difference and its equivalence to phase difference 
+ 
+ 

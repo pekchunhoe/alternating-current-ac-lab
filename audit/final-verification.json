@@ -1,0 +1,446 @@
+{
+  "generated_at_utc": "2026-10-22T03:19:27.884Z",
+  "client_timezone": "Asia/Kuala_Lumpur",
+  "pdf": {
+    "source": "C:\\Users\\User\\Downloads\\Telegram Desktop\\Curriculum Specifications (CS) Physics SP025.pdf",
+    "sha256": "fba864aa52c1d5f20bcc6c950b6e277c2c50d29e38688e717f7be23454947f3e",
+    "page_count": 14,
+    "verified_pdf_pages": [
+      10,
+      11
+    ]
+  },
+  "unit": {
+    "passed": 67,
+    "failed": 0,
+    "physics_tests": 47,
+    "component_tests": 20,
+    "start_utc": "2026-10-22T03:12:38.177Z"
+  },
+  "browser": {
+    "startTime": "2026-10-22T03:15:55.814Z",
+    "duration": 104728.49299999999,
+    "expected": 32,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0,
+    "errors": [],
+    "production_build": true,
+    "browser": "Microsoft Edge / Chromium",
+    "desktop": "1440x1000",
+    "mobile": "390x844 with touch emulation",
+    "tablet": "768x1024"
+  },
+  "other_executed_checks": {
+    "eslint": "passed",
+    "typescript_and_vite_build": "passed"
+  },
+  "physics": {
+    "cases": 10,
+    "all_reference_comparisons_passed": true,
+    "maximum_kvl_error_V": 1.0913936421275139e-11
+  },
+  "production_index_sha256": "d2b455bad63b85be1cb61ebc41166453601beb5989ded0ea419d36338ef8016a",
+  "source_and_test_sha256": {
+    "src/physics/ac.ts": "04fb742fb384a2d5e2c35ee97f9d243f7294d85762dbc63769af8c4733901235",
+    "src/physics/notation.ts": "b5c1e4528b213a70d9a5a84d47e3bb800ed8e7062bb8cc53156e0a21adcd84d6",
+    "src/physics/audit.test.ts": "17ca6e441fdc539a38f4cb5ff73b70511f5ddb7f1f3a7c669b8c7f495fa780e6",
+    "src/components/Audit.test.tsx": "5f5e289cfe612cd83de2ae980d9df49d3f2cfc42de63fcb3a3cca74d63e43443",
+    "src/components/Plots.tsx": "e491933cffaf6ee35d19f40d179daddbddfc5bb3b700a49bf989007e2d20a0ba",
+    "src/components/Circuit.tsx": "489e55f1174c8cfdd400fb2b71e92e213732b593a1d449b17fe456b4a50cf5a1",
+    "src/components/Calculations.tsx": "0a954f943384e3c8dd4b54154032bcea5d618d474cecbc3f4e7d7a0c7f38696d",
+    "src/components/Challenges.tsx": "0b3674897fc312f1ef82e3992cdad81a4c10943cdb1549c50d550e34c7ee2917",
+    "src/components/Heating.tsx": "eac8e41b412aca59bf908c2b508b208350db09a1706cdb210e76692a15ce3978",
+    "src/components/Phasor.tsx": "a93f29df3ef392f9ada6ce66c4a6dbd73e8aad7dc9af1b98f1dc101636a26aa1",
+    "src/components/UI.tsx": "cdfd3c0f1d804498c0055d6a71bacea85861cf0d4f35694812533c1b63761450",
+    "src/components/Controls.tsx": "1da0e415c74af644323dfd8e1819079cd31cfd65e287322350ff6533e949aba3",
+    "src/App.tsx": "6472df993bc107e23b4db8e9c164db3ca171523649079291f42d6ed972b3affa",
+    "src/Laboratory.tsx": "76a75518ca4953058b1abcdf27fbb23db833b280f3d72e4a028972ca0834fcc8",
+    "src/styles.css": "f52c92ce3776a284157f3d495ac2203c35043c15e3eaa695f0b8e39e6f44785f",
+    "tests/laboratory.spec.ts": "1d579349abf067b7c478a0129d2699de44b387f85b21f29607f9bdd712907ceb",
+    "tests/curriculum-audit.spec.ts": "37135df4e15cbd7ccd3f9903e6951f9deb65f79d730a2dacec0f8a4130995e75",
+    "playwright.config.ts": "b492af577a4fb829f3c5ea35dacce29a87b769fcb0fe79b390424a71ffb16ec1",
+    "package-lock.json": "a0f2359164d3ffbb821cb196a99361960a84bc34306206e9771b56262113ffc6"
+  },
+  "screenshot_count": 54,
+  "screenshots": [
+    {
+      "path": "screenshots/desktop-dark-power-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 139279,
+      "sha256": "1b922caedc07290e2462fabf4fea4d418e3988c5e52ee0876a57fb9d2d82abf2"
+    },
+    {
+      "path": "screenshots/desktop-dark-power.png",
+      "width": 1440,
+      "height": 3015,
+      "bytes": 329187,
+      "sha256": "bc6c2568a2738f7b25fe29f913f1e44c699e02864bc827b6463d192edb58f2d9"
+    },
+    {
+      "path": "screenshots/desktop-dark-resonance-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 139978,
+      "sha256": "0ed1997d668b58ec6ef168a08a8d4f8f5f5585d7b4a066a2326031ee6aea0b4d"
+    },
+    {
+      "path": "screenshots/desktop-dark-resonance.png",
+      "width": 1440,
+      "height": 3179,
+      "bytes": 340670,
+      "sha256": "ff6b280ab729627f3b8c5784d8411a6112b86f58ce1231c39a207ccdd33d4ddb"
+    },
+    {
+      "path": "screenshots/desktop-dark-rms-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 135081,
+      "sha256": "a0bdc8adb249db770c9244be4cb436dac7da616987bc4c9604f0e615beeb3cd1"
+    },
+    {
+      "path": "screenshots/desktop-dark-rms.png",
+      "width": 1440,
+      "height": 2908,
+      "bytes": 337612,
+      "sha256": "06be4428162dddcd2c2688f755a9685a943b47ef1de8834d6142879973ef7407"
+    },
+    {
+      "path": "screenshots/desktop-dark-waveforms-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 130579,
+      "sha256": "7f99e44f3521ae2a80cc244414f3458b652549480c00f01085012074a198508c"
+    },
+    {
+      "path": "screenshots/desktop-dark-waveforms.png",
+      "width": 1440,
+      "height": 2270,
+      "bytes": 242381,
+      "sha256": "b9a7a718f85f7ef23389426761040f935b9ad0cd6ecb315de14e78940cc4ada1"
+    },
+    {
+      "path": "screenshots/desktop-light-power-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 139615,
+      "sha256": "712d9238305e849289379788c8522b899dbb44a507a55584ce386522cefd5ef7"
+    },
+    {
+      "path": "screenshots/desktop-light-power.png",
+      "width": 1440,
+      "height": 3015,
+      "bytes": 333285,
+      "sha256": "96d9305e20ad76e5c730ad9112c078418d7d13f6953ade69102a80d43f06b462"
+    },
+    {
+      "path": "screenshots/desktop-light-resonance-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 139617,
+      "sha256": "953df599e53f47b6bd7ec35d7921a5c8023250aff33d1196bb8a0d732cdcc907"
+    },
+    {
+      "path": "screenshots/desktop-light-resonance.png",
+      "width": 1440,
+      "height": 3179,
+      "bytes": 342370,
+      "sha256": "16c1e43180cd1b2c4985d106fdcfd092ba04c3ad2d2b190f287f5b436700522d"
+    },
+    {
+      "path": "screenshots/desktop-light-rms-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 134333,
+      "sha256": "2fa28cf91fcc94101922863fefcacbdfa1f42a010678beafb21652f37313773d"
+    },
+    {
+      "path": "screenshots/desktop-light-rms.png",
+      "width": 1440,
+      "height": 2908,
+      "bytes": 310817,
+      "sha256": "504a7ad7e85f80e9c748fea9e354d381cc04dd18eb14bac530483d2b48ba0c12"
+    },
+    {
+      "path": "screenshots/desktop-light-waveforms-viewport.png",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 131110,
+      "sha256": "624c65428908ec805501a6c90bb2c8ead8561e9321911fa6fce8d60494e7ff26"
+    },
+    {
+      "path": "screenshots/desktop-light-waveforms.png",
+      "width": 1440,
+      "height": 2270,
+      "bytes": 244173,
+      "sha256": "95f5f3b955e34f04f47cedc56d3a32cf4a4f7167228ca2acc8c6e8bd6bcc98d5"
+    },
+    {
+      "path": "screenshots/high-q-resonance.png",
+      "width": 390,
+      "height": 5306,
+      "bytes": 235856,
+      "sha256": "7562f3b93ddc0505722d6cd71995d61bdfdd146707fe8c0b26a0d53c0e491d89"
+    },
+    {
+      "path": "screenshots/mobile-dark-power-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 55603,
+      "sha256": "53e6c4c8411d315ab1bb914a33cf3c5aee4b1ff74cc0b3493bc0c544cda63cf6"
+    },
+    {
+      "path": "screenshots/mobile-dark-power.png",
+      "width": 390,
+      "height": 5393,
+      "bytes": 246192,
+      "sha256": "5440b33a6c5f322b3a9941abd4056c26d83db3cc7473892a1f8fcb4cc2e1991b"
+    },
+    {
+      "path": "screenshots/mobile-dark-resonance-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 56453,
+      "sha256": "a1f5d72f6c2f50ef0ef8ae22c72325a74f71e2ba4504fb023bd879a307881b82"
+    },
+    {
+      "path": "screenshots/mobile-dark-resonance.png",
+      "width": 390,
+      "height": 5306,
+      "bytes": 247201,
+      "sha256": "8e0285b214934022adac2bab540294bee50313315deb8d1afd246f19de7648b3"
+    },
+    {
+      "path": "screenshots/mobile-dark-rms-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 56839,
+      "sha256": "8a36a5ab4b800c6e39e4bbd21aa94d31bfc1fb0816e6b8767f1144adc84487f9"
+    },
+    {
+      "path": "screenshots/mobile-dark-rms.png",
+      "width": 390,
+      "height": 4966,
+      "bytes": 234278,
+      "sha256": "f2796258c0836cfdcc984e21cc2eccb733459810f44e981d80711061e78889bd"
+    },
+    {
+      "path": "screenshots/mobile-dark-waveforms-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 53244,
+      "sha256": "1dab6825ea00c1e94602973f6618bb197753ff989b2ee80250fe2b793feb7db6"
+    },
+    {
+      "path": "screenshots/mobile-dark-waveforms.png",
+      "width": 390,
+      "height": 4125,
+      "bytes": 184031,
+      "sha256": "1dc3c03b5fd2146ec53aad67b411a7ff2ceef7c25ecf60c58aa24eedd4cefa80"
+    },
+    {
+      "path": "screenshots/mobile-light-power-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 55670,
+      "sha256": "5117f72fb3b22c1fc46899896bef8279bf2c0259d1fd1ce1a55693dc996c7e77"
+    },
+    {
+      "path": "screenshots/mobile-light-power.png",
+      "width": 390,
+      "height": 5393,
+      "bytes": 249563,
+      "sha256": "99f19dadc3f8bb75c7331640136e407392b06da6ca2179dca0f4f3a50bf8aa9f"
+    },
+    {
+      "path": "screenshots/mobile-light-resonance-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 57060,
+      "sha256": "0e7f5526dc6c4bb5761c4aaf5e6c07a4d5c0ebb95ab4d0a7024f468feb222bd0"
+    },
+    {
+      "path": "screenshots/mobile-light-resonance.png",
+      "width": 390,
+      "height": 5306,
+      "bytes": 249934,
+      "sha256": "2a9dcdb9537f72711452b3464cc838e817e8cc5648f7e62de08a5cbcbb5461b0"
+    },
+    {
+      "path": "screenshots/mobile-light-rms-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 56056,
+      "sha256": "5c1819f134f93ea750ff95bc45e8ca9fbf0bbd3475b82740c661e54b5d839b0a"
+    },
+    {
+      "path": "screenshots/mobile-light-rms.png",
+      "width": 390,
+      "height": 4966,
+      "bytes": 234712,
+      "sha256": "605883da37eba05a5a663866366a704177d0002e89fca777188f2e35bb6c35a3"
+    },
+    {
+      "path": "screenshots/mobile-light-waveforms-viewport.png",
+      "width": 390,
+      "height": 844,
+      "bytes": 53289,
+      "sha256": "f3d6431c1d1cf0f14a648b52aeda6a8ed2b764d66a494110aefafbe81b412314"
+    },
+    {
+      "path": "screenshots/mobile-light-waveforms.png",
+      "width": 390,
+      "height": 4125,
+      "bytes": 185552,
+      "sha256": "855a71ba2706d9d9a4e2263d717870f1f3e84d43a86b5a07cfaa509dc1b334e5"
+    },
+    {
+      "path": "screenshots/tablet-power.png",
+      "width": 768,
+      "height": 3139,
+      "bytes": 257968,
+      "sha256": "8c2b28ed65c518232be9eddf17d715f9a23ca3db7fa5089cb0f7219bc128d45a"
+    },
+    {
+      "path": "audit/screenshots/desktop-extreme-meters.png",
+      "width": 1440,
+      "height": 2423,
+      "bytes": 283495,
+      "sha256": "be7980cc46762e8b4e0528c237912374fb56a8a06df27bf8de0d31f716a01d13"
+    },
+    {
+      "path": "audit/screenshots/desktop-low-power-rms.png",
+      "width": 1440,
+      "height": 2981,
+      "bytes": 300696,
+      "sha256": "83318df6c6d8e420e8eb0886ff3361e5ce5a24334715c1728aacd2757d85897b"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-C.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 14752,
+      "sha256": "434bad8eaa96b74f620081eb2f0ed1e1cf86011ef0c5c05d4c955bd752bae49c"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-L.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 14726,
+      "sha256": "5240d2f196386fbc60d32f4f3c940b57fce51ebb5f35e295d4a69e3d63dd4671"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-R.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 14056,
+      "sha256": "faa89c6b5cd658c7e52d9e06904063538b82aa3b3f463115c3576fc4a3f238cb"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-RC.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 15609,
+      "sha256": "e53b35d54877c50aacd00830c382b7c7d296d98a47a341c3ace7348434dd29ca"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-RL.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 16180,
+      "sha256": "b41a225e62c4bd1c27a12a57bf6a5985244274f580ec5968cc53dce04d049418"
+    },
+    {
+      "path": "audit/screenshots/desktop-phasor-RLC.png",
+      "width": 267,
+      "height": 419,
+      "bytes": 17597,
+      "sha256": "e903bc408480be83574b82bb0be87d93c00055ce66e25333e7dea50c582dd13f"
+    },
+    {
+      "path": "audit/screenshots/desktop-rlc-component-traces.png",
+      "width": 1440,
+      "height": 3179,
+      "bytes": 377773,
+      "sha256": "8561f91922668f68ee067efdfd415e0df9a18a036bd42735ac8b353bf74194dc"
+    },
+    {
+      "path": "audit/screenshots/desktop-small-power-mathematics.png",
+      "width": 1440,
+      "height": 3122,
+      "bytes": 303963,
+      "sha256": "61d31eb801b97683b99b3f04586cef87d195a42ece9768e48236b8f5043b9760"
+    },
+    {
+      "path": "audit/screenshots/mobile-extreme-meters.png",
+      "width": 390,
+      "height": 4338,
+      "bytes": 199829,
+      "sha256": "8fb3d085036b1e4910dc4f7120e3700ff6a176df1ab1cadba4c4f71f752ca8cd"
+    },
+    {
+      "path": "audit/screenshots/mobile-low-power-rms.png",
+      "width": 390,
+      "height": 5075,
+      "bytes": 233134,
+      "sha256": "37b93d3b0b2b37b37c7717042e4f52c865a8d13bfee653df425bd090193103df"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-C.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 15891,
+      "sha256": "69c370697eb0a7360152bc6b8d9716794bf139a418ecc13fd60f017369b73167"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-L.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 15797,
+      "sha256": "20f53888fbf77a843c92fade6f17c80fbc5191e4bd5785b013055bc61ffca5e4"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-R.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 15062,
+      "sha256": "016a99f215a0f829f734b75c922582e28740fdb500c16d5e626e092e2d006166"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-RC.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 16923,
+      "sha256": "62231b7ddc7abb3e4fb2e51487b4d37b93d78eb261aa678865d4152461d398cf"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-RL.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 17404,
+      "sha256": "cb295bca53533a82aa098e31de3c06b4dffbe84f653d390c8ef50bbefe63ac39"
+    },
+    {
+      "path": "audit/screenshots/mobile-phasor-RLC.png",
+      "width": 358,
+      "height": 483,
+      "bytes": 19698,
+      "sha256": "b69506f6cb3f3c1964c3a27756d24c3df4295a3cd1b3c9b02f1cbefc34d5b805"
+    },
+    {
+      "path": "audit/screenshots/mobile-rlc-component-traces.png",
+      "width": 390,
+      "height": 5325,
+      "bytes": 261997,
+      "sha256": "485798594f5fb55437834910e0625bd7ca92427d3d4af652ecd97afda689e03c"
+    },
+    {
+      "path": "audit/screenshots/mobile-small-power-mathematics.png",
+      "width": 390,
+      "height": 5539,
+      "bytes": 247220,
+      "sha256": "ddcc1282ecd96e3082620509a655b0c0ebf345305253ab9e3a072dffe3081fe7"
+    }
+  ]
+}

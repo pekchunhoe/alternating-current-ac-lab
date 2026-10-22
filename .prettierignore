@@ -1,0 +1,10 @@
+node_modules
+dist
+.npm-cache
+screenshots
+test-results
+playwright-report
+package-lock.json
+*.tsbuildinfo
+.pip-cache
+tmp

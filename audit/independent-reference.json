@@ -1,0 +1,326 @@
+{
+  "method": "Python cmath + math.fsum, no application imports",
+  "samples_per_cycle": 8192,
+  "cases": [
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "R",
+        "name": "R"
+      },
+      "reference": {
+        "impedance_ohm": 20.0,
+        "phase_degrees": 0.0,
+        "current_rms_A": 0.6,
+        "power_factor": 1.0,
+        "average_power_W": 7.199999999999999,
+        "vr_rms_V": 12.0,
+        "vl_rms_V": 0.0,
+        "vc_rms_V": 0.0,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.6,
+        "numerical_average_power_W": 7.200000000000001,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": -7.293159895417646e-20,
+        "maximum_kvl_error_V": 3.552713678800501e-15,
+        "resistor_average_power_W": 7.2,
+        "inductor_average_power_W": 0.0,
+        "capacitor_average_power_W": 0.0,
+        "minimum_instantaneous_power_W": 0.0,
+        "maximum_instantaneous_power_W": 14.400000000000002
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "L",
+        "name": "L"
+      },
+      "reference": {
+        "impedance_ohm": 31.415926535897935,
+        "phase_degrees": 90.0,
+        "current_rms_A": 0.3819718634205488,
+        "power_factor": 0.0,
+        "average_power_W": 0.0,
+        "vr_rms_V": 0.0,
+        "vl_rms_V": 12.0,
+        "vc_rms_V": 0.0,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.38197186342054884,
+        "numerical_average_power_W": 2.750517150059686e-16,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": 2.0689430423675016e-17,
+        "maximum_kvl_error_V": 3.552713678800501e-15,
+        "resistor_average_power_W": 0.0,
+        "inductor_average_power_W": -1.4497344134943613e-18,
+        "capacitor_average_power_W": 0.0,
+        "minimum_instantaneous_power_W": -4.583662361046587,
+        "maximum_instantaneous_power_W": 4.583662361046587
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "C",
+        "name": "C"
+      },
+      "reference": {
+        "impedance_ohm": 31.830988618379067,
+        "phase_degrees": -90.0,
+        "current_rms_A": 0.3769911184307752,
+        "power_factor": 0.0,
+        "average_power_W": 0.0,
+        "vr_rms_V": 0.0,
+        "vl_rms_V": 0.0,
+        "vc_rms_V": 12.0,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.3769911184307752,
+        "numerical_average_power_W": 2.756834907492772e-16,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": -2.039511352295566e-17,
+        "maximum_kvl_error_V": 9.325873406851315e-15,
+        "resistor_average_power_W": 0.0,
+        "inductor_average_power_W": 0.0,
+        "capacitor_average_power_W": -1.2406864633460518e-17,
+        "minimum_instantaneous_power_W": -4.523893421169303,
+        "maximum_instantaneous_power_W": 4.523893421169304
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "RL",
+        "name": "RL"
+      },
+      "reference": {
+        "impedance_ohm": 37.241917782371736,
+        "phase_degrees": 57.51836340947025,
+        "current_rms_A": 0.322217563287789,
+        "power_factor": 0.537029272146315,
+        "average_power_W": 2.076483161822406,
+        "vr_rms_V": 6.44435126575578,
+        "vl_rms_V": 10.122763296825223,
+        "vc_rms_V": 0.0,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.32221756328778905,
+        "numerical_average_power_W": 2.076483161822407,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": 3.06786267595994e-17,
+        "maximum_kvl_error_V": 7.105427357601002e-15,
+        "resistor_average_power_W": 2.0764831618224067,
+        "inductor_average_power_W": 1.8618354604399938e-16,
+        "capacitor_average_power_W": 0.0,
+        "minimum_instantaneous_power_W": -1.7901267519410595,
+        "maximum_instantaneous_power_W": 5.943093075585874
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "RC",
+        "name": "RC"
+      },
+      "reference": {
+        "impedance_ohm": 37.59270988401046,
+        "phase_degrees": -57.85809236465795,
+        "current_rms_A": 0.31921082670084483,
+        "power_factor": 0.5320180445014081,
+        "average_power_W": 2.037911037660736,
+        "vr_rms_V": 6.384216534016897,
+        "vl_rms_V": 0.0,
+        "vc_rms_V": 10.160796191577964,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.3192108267008449,
+        "numerical_average_power_W": 2.037911037660736,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": -1.4923102565342618e-17,
+        "maximum_kvl_error_V": 1.0658141036401503e-14,
+        "resistor_average_power_W": 2.037911037660736,
+        "inductor_average_power_W": 0.0,
+        "capacitor_average_power_W": 1.120133839503624e-16,
+        "minimum_instantaneous_power_W": -1.7926184864991397,
+        "maximum_instantaneous_power_W": 5.868440561820612
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 35,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "RLC",
+        "name": "RLC_35Hz"
+      },
+      "reference": {
+        "impedance_ohm": 30.844608502301856,
+        "phase_degrees": -49.57805465701132,
+        "current_rms_A": 0.3890469220610944,
+        "power_factor": 0.6484115367684907,
+        "average_power_W": 3.0271501513042254,
+        "vr_rms_V": 7.780938441221888,
+        "vl_rms_V": 8.555588665741986,
+        "vc_rms_V": 17.69106878306015,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.3890469220610944,
+        "numerical_average_power_W": 3.0271501513042263,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": -2.5734344899604564e-17,
+        "maximum_kvl_error_V": 7.993605777301127e-15,
+        "resistor_average_power_W": 3.027150151304226,
+        "inductor_average_power_W": -3.707192556635645e-16,
+        "capacitor_average_power_W": 7.635343980776619e-16,
+        "minimum_instantaneous_power_W": -1.6414128708070945,
+        "maximum_instantaneous_power_W": 7.695713173415547
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 90,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "RLC",
+        "name": "RLC_90Hz"
+      },
+      "reference": {
+        "impedance_ohm": 43.70894105961343,
+        "phase_degrees": 62.769437949084974,
+        "current_rms_A": 0.27454337051161976,
+        "power_factor": 0.45757228418603296,
+        "average_power_W": 1.5074812458376106,
+        "vr_rms_V": 5.490867410232395,
+        "vl_rms_V": 15.525061846039536,
+        "vc_rms_V": 4.854992723337109,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.27454337051161976,
+        "numerical_average_power_W": 1.507481245837611,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": 1.3271495851676364e-17,
+        "maximum_kvl_error_V": 1.0658141036401503e-14,
+        "resistor_average_power_W": 1.5074812458376106,
+        "inductor_average_power_W": 1.35926871056805e-16,
+        "capacitor_average_power_W": -4.2739853150353503e-17,
+        "minimum_instantaneous_power_W": -1.7870390792545903,
+        "maximum_instantaneous_power_W": 4.802001570929813
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 100,
+        "frequency": 50,
+        "resistance": 30,
+        "inductance": 0.12732395447351627,
+        "capacitance": 0.0001,
+        "mode": "RL",
+        "name": "RL_reference"
+      },
+      "reference": {
+        "impedance_ohm": 50.0,
+        "phase_degrees": 53.13010235415598,
+        "current_rms_A": 2.0,
+        "power_factor": 0.6,
+        "average_power_W": 120.0,
+        "vr_rms_V": 60.0,
+        "vl_rms_V": 80.0,
+        "vc_rms_V": 0.0,
+        "numerical_voltage_rms_V": 100.00000000000001,
+        "numerical_current_rms_A": 2.0,
+        "numerical_average_power_W": 120.00000000000001,
+        "mean_voltage_V": 1.0216398819170214e-16,
+        "mean_current_A": 1.7046599605730368e-16,
+        "maximum_kvl_error_V": 3.6193270602780103e-14,
+        "resistor_average_power_W": 120.00000000000001,
+        "inductor_average_power_W": 1.0897400500718514e-14,
+        "capacitor_average_power_W": 0.0,
+        "minimum_instantaneous_power_W": -79.9999417588874,
+        "maximum_instantaneous_power_W": 319.9999417588875
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 50.329212104487034,
+        "resistance": 20,
+        "inductance": 0.1,
+        "capacitance": 0.0001,
+        "mode": "RLC",
+        "name": "RLC_resonance"
+      },
+      "reference": {
+        "impedance_ohm": 20.0,
+        "phase_degrees": -1.0177774980683255e-14,
+        "current_rms_A": 0.6,
+        "power_factor": 1.0,
+        "average_power_W": 7.199999999999999,
+        "vr_rms_V": 12.0,
+        "vl_rms_V": 18.973665961010276,
+        "vc_rms_V": 18.973665961010276,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 0.6000000000000001,
+        "numerical_average_power_W": 7.200000000000001,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": 2.353770454835264e-17,
+        "maximum_kvl_error_V": 7.105427357601002e-15,
+        "resistor_average_power_W": 7.2,
+        "inductor_average_power_W": -3.678663054969227e-16,
+        "capacitor_average_power_W": 3.6417535942926207e-16,
+        "minimum_instantaneous_power_W": 0.0,
+        "maximum_instantaneous_power_W": 14.400000000000002
+      }
+    },
+    {
+      "input": {
+        "voltageRms": 12,
+        "frequency": 112.53953951963827,
+        "resistance": 1,
+        "inductance": 2,
+        "capacitance": 1e-06,
+        "mode": "RLC",
+        "name": "RLC_narrow_resonance"
+      },
+      "reference": {
+        "impedance_ohm": 1.0,
+        "phase_degrees": 0.0,
+        "current_rms_A": 12.0,
+        "power_factor": 1.0,
+        "average_power_W": 144.0,
+        "vr_rms_V": 12.0,
+        "vl_rms_V": 16970.56274847714,
+        "vc_rms_V": 16970.56274847714,
+        "numerical_voltage_rms_V": 12.000000000000002,
+        "numerical_current_rms_A": 12.000000000000002,
+        "numerical_average_power_W": 144.00000000000003,
+        "mean_voltage_V": -4.1165684280083204e-18,
+        "mean_current_A": -4.1165684280083204e-18,
+        "maximum_kvl_error_V": 0.0,
+        "resistor_average_power_W": 144.00000000000003,
+        "inductor_average_power_W": 4.552572337081285e-13,
+        "capacitor_average_power_W": -4.552572337081285e-13,
+        "minimum_instantaneous_power_W": 0.0,
+        "maximum_instantaneous_power_W": 288.00000000000006
+      }
+    }
+  ]
+}

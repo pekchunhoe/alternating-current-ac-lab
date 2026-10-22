@@ -1,0 +1,124 @@
+ 
+CURRICULUM SPECIFICATIONS  
+PHYSICS 2 (SP025) 
+ 
+Berkuat kuasa mulai Sesi 2022/2023 
+ 
+ 
+4 
+4.0 
+Magnetism 
+4.1 Magnetic field 
+4.2 Resultant magnetic field 
+produced by current-carrying 
+conductor 
+4.3 Force on a moving charged 
+particle in a uniform magnetic 
+field  
+4.4 Force on a current carrying 
+conductor in a uniform 
+magnetic field 
+4.5 Forces between two parallel 
+current-carrying conductors 
+4.6 Application of motion of 
+charged particle  
+1, 2, 
+3, 4 
+2 
+8 
+2 
+0 
+0 
+10 
+22 
+5.0 
+Electromagnetic Induction 
+5.1 Magnetic flux 
+5.2 Induced emf 
+5.3 Self-inductance 
+5.4 Energy stored in inductor 
+5.5 Mutual inductance 
+1, 2 
+2 
+6 
+0 
+0 
+0 
+8 
+16 
+6.0 
+Alternating Current 
+6.1 Alternating current 
+6.2 Root mean square (rms) 
+6.3 Resistance, reactance and 
+impedance 
+6.4 Power and power factor 
+1, 2 
+2 
+6 
+0 
+0 
+0 
+8 
+16 
+7.0 
+Optics 
+7.1 Reflection at a spherical surface 
+7.2 Refraction at a spherical surface 
+7.3 Thin lenses 
+7.4 Huygen’s Principle 
+7.5 Constructive and destructive 
+interferences 
+7.6 Interference of transmitted light 
+through double-slits 
+7.7 Interference of reflected light in 
+thin films 
+7.8 Diffraction by a single slit 
+7.9 Diffraction grating 
+1, 2, 3 
+3 
+16 
+4 
+0 
+0 
+19 
+42 
+8.0 
+Wave Properties of Particle 
+8.1 de Broglie wavelength 
+8.2 Electron diffraction  
+1, 2 
+1 
+2 
+0 
+0 
+0 
+3 
+6 
+9.0 
+Nuclear and Particle Physics 
+9.1 Binding energy and mass defect 
+9.2 Radioactivity 
+9.3 Particle accelerator 
+9.4 Fundamental particle 
+1, 2 
+2 
+4 
+0 
+0 
+0 
+6 
+12 
+ 
+Total 
+ 
+18 
+66 
+12 
+0 
+0 
+84 
+180 
+ 
+ 
+ 
